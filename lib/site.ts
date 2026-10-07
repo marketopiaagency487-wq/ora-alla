@@ -3,18 +3,18 @@
 // ─────────────────────────────────────────────────────────────
 
 export const site = {
-  url: "https://solana-eastlane.example.com", // ← غيّرها بالدومين الفعلي
+  url: "https://www.ora-solanaeast.org/", // ← غيّرها بالدومين الفعلي
   agency: "Grandeur Spaces",
   project: "سولانا إيست لين",
   projectEn: "Solana East Lane",
   developer: "أورا للتطوير العقاري",
   developerEn: "ORA Developers",
 
-  phone: "01011162689",
-  phoneIntl: "+201011162689",
-  phoneDisplay: "01011162689",
-  whatsapp: "201011162689",
-  email: "leads@grandeur-spaces.com",
+  phone: "01066850504",
+  phoneIntl: "+201066850504",
+  phoneDisplay: "01066850504",
+  whatsapp: "201066850504",
+  email: "leads@ora-solanaeast.org",
 
   // ← Google Ads: ضع الـ tag و labels قبل النشر
   gtag: "",
